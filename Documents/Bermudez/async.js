@@ -41,5 +41,11 @@ pizzaPromise()
 
 console.log("waiting for your pizza...");
         
+//terminology
+//Promise : an object that represents the eventual completion/failure of an asynch operation and its resulting value
+//resolve: a callback func that is used when the promise is fulfilled
+//reject: rejected 
+//. then(): A Method that is used to handle the resolved promise.
+//. catch() a methoc that is used to handle the rejected promise.
         
 
